@@ -1,7 +1,7 @@
 # GFO-2.0
 General Formal Ontology (GFO) 2.0
 
-This repo comprises the latest public state in developing the next releaase of the General Formal Ontology (GFO), named GFO 2.0. The former and initial version of GFO is hosted in the [GFO repo](https://github.com/Onto-Med/GFO), the [readme](https://github.com/Onto-Med/GFO#readme) of which accounts for the history so far.
+This repo comprises the latest public state in developing the next release of the General Formal Ontology (GFO), named GFO 2.0. The former and initial version of GFO is hosted in the [GFO repo](https://github.com/Onto-Med/GFO), the [readme](https://github.com/Onto-Med/GFO#readme) of which accounts for the history so far.
 
 Work on GFO 2.0 has commenced in 2020, as documented in the following publication:
 
